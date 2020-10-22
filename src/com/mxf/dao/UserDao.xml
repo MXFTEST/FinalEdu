@@ -11,6 +11,6 @@
 		update user set u_password=#{u_password} , u_phone=#{u_phone} where uid=#{uid}
 	</update>
 		
-		
+	
 	
 </mapper>

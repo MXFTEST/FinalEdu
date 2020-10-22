@@ -12,6 +12,7 @@ import com.mxf.service.UserService;
 @Service("userService")
 @Transactional
 public  class  UserServiceImpl implements UserService{
+	
 	@Autowired
 	private UserDao userDao;
 	
