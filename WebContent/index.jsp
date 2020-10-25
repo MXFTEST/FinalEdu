@@ -84,7 +84,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<input type="text" name="d_name">
 								<li class="span1_of_3">
 									<div class="date_btn">
-										<input type="submit" value="Find">
+										<input type="submit" value="搜索">
 									</div>
 									</li>
 								</form>
@@ -121,49 +121,46 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="latis">
 		<div class="container">
 		<div class="col-md-4 latis-left">
-			<h3>清蒸鱼</h3>
-			<img src="images/4.jpg" class="img-responsive" alt="">
+			<h3>JAVAEE程序设计与实践</h3>
+			<img src="images/kc1.png" class="img-responsive" alt="">
 			<div class="special-info grid_1 simpleCart_shelfItem">
-				<p>-------------清蒸鱼 - ------------------- </p>
+				<p>-------------JAVAEE程序设计与实践 - ------------------- </p>
+					<p>张三</p>
 				<div class="cur">
 					<div class="cur-left">
-						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">加购</a></span></div>
+						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">查看</a></span></div>
 					</div>
-					<div class="cur-right">
-						<div class="item_add"><span class="item_price"><h6> RMB 25.00</h6></span></div>
-					</div>
+			
 						<div class="clearfix"> </div>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4 latis-left">
-			<h3>红烧肉</h3>
-			<img src="images/1.jpg" class="img-responsive" alt="">
+			<h3>计算机综合应用程序</h3>
+			<img src="images/kc2.jpg" class="img-responsive" alt="">
 			<div class="special-info grid_1 simpleCart_shelfItem">
-				<p>--------------红烧肉------------------------ </p>
+				<p>--------------计算机综合应用程序------------------------ </p>
+					<p>李四</p>
 				<div class="cur">
 					<div class="cur-left">
-						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">加购</a></span></div>
+						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">查看</a></span></div>
 					</div>
-					<div class="cur-right">
-						<div class="item_add"><span class="item_price"><h6> RMB 35.00</h6></span></div>
-					</div>
+				
 						<div class="clearfix"> </div>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4 latis-left">
-			<h3>小龙虾</h3>
-			<img src="images/3.jpg" class="img-responsive" alt="">
+			<h3>移动应用实训与开发</h3>
+			<img src="images/kc3.png" class="img-responsive" alt="">
 			<div class="special-info grid_1 simpleCart_shelfItem">
-				<p>--------------小龙虾-------------------------- </p>
+				<p>--------------移动应用实训与开发-------------------------- </p>
+				<p>王五</p>
 				<div class="cur">
 					<div class="cur-left">
-						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">加购</a></span></div>
+						<div class="item_add"><span class="item_price"><a class="morebtn hvr-rectangle-in" href="#">查看</a></span></div>
 					</div>
-					<div class="cur-right">
-						<div class="item_add"><span class="item_price"><h6> RMB 35.00</h6></span></div>
-					</div>
+
 						<div class="clearfix"> </div>
 				</div>
 			</div>
@@ -196,7 +193,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</li>	 -->	
 					<li>
 							
-									<img src="images/4p.jpg" class="img-responsive" alt="">		
+									<img src="images/kc1.png" class="img-responsive" alt="">		
 								
 									
 					</li>
@@ -207,19 +204,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</li> -->
 					<li>
 							
-									<img src="images/6p.jpg" class="img-responsive" alt="">		
+									<img src="images/kc2.jpg" class="img-responsive" alt="">		
 								
 					</li>
 					<li>
 							
-									<img src="images/7p.jpg" class="img-responsive" alt="">		
+									<img src="images/kc3.png" class="img-responsive" alt="">		
 								
 					</li>
-					<li>
+				<li>
 							
-									<img src="images/8p.jpg" class="img-responsive" alt="">		
+									<img src="images/kc1.png" class="img-responsive" alt="">		
 								
-					</li> 
+					</li>  
 									
 				</ul>
 							
@@ -259,46 +256,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- feature -->
 <!-- magnust -->	
-	<div class="magnust">
-		<div class="container">
-			<h3>甜品</h3>
-		<div class="col-md-4 magnust-top">
-			
-			<div class="magnust-left">
-				<img src="images/9b.jpg" class="img-responsive" alt="">	
-			</div>
-			<div class="magnust-right">
-				<h4><a href="#">曲奇</a></h4>
-				<p> ---------------------------------------曲奇-------------------------------------------------------</p>
-				<a class="see" href="menu.jsp">更多</a>
-			</div>
-				<div class="clearfix"> </div>
-		</div>
-		<div class="col-md-4 magnust-top">
-			<div class="magnust-left">
-				<img src="images/8b.jpg" class="img-responsive" alt="">	
-			</div>
-			<div class="magnust-right">
-				<h4><a href="#">小蛋糕</a></h4>
-				<p>--------------------------------------小蛋糕-------------------------------------------------------------</p>
-				<a class="see" href="menu.jsp">更多</a>
-			</div>
-				<div class="clearfix"> </div>
-		</div>
-		<div class="col-md-4 magnust-top">
-			<div class="magnust-left">
-				<img src="images/10b.jpg" class="img-responsive" alt="">	
-			</div>
-			<div class="magnust-right">
-				<h4><a href="#">奶茶</a></h4>
-				<p>--------------------------------------奶茶--- ------ --------------------------------------------------------------</p>
-				<a class="see" href="menu.jsp">更多</a>
-			</div>
-				<div class="clearfix"> </div>
-		</div>
-			<div class="clearfix"> </div>
-	</div>
-	</div>
+	
 <!-- magnust -->	
 <!-- footer-->
 	<div class="footer">

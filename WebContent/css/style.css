@@ -88,14 +88,14 @@ body a{
 }
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 .banner {
-  background: url(../images/edubg.jpg) no-repeat;
+  background: url(../images/edubg2.jpg) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -ms-background-size: cover;
   min-height: 600px;
-}
+} 
 .banner-info {
   background-color:#D96B66;
   width: 45%;
